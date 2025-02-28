@@ -1,0 +1,1 @@
+Hehe it's nothing sort of important sir.. just be sure to first create a database named 'cookies' para mafind na ni vs code ang database para di mag error :> 
